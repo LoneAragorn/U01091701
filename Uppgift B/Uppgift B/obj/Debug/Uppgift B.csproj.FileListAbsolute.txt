@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\T4\U01091701\Uppgift B\Uppgift B\obj\Debug\Uppgift B.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\T4\U01091701\Uppgift B\Uppgift B\obj\Debug\Uppgift B.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\T4\U01091701\Uppgift B\Uppgift B\bin\Debug\Uppgift B.exe.config
+C:\Users\Admin\Documents\T4\U01091701\Uppgift B\Uppgift B\bin\Debug\Uppgift B.exe
+C:\Users\Admin\Documents\T4\U01091701\Uppgift B\Uppgift B\bin\Debug\Uppgift B.pdb
+C:\Users\Admin\Documents\T4\U01091701\Uppgift B\Uppgift B\obj\Debug\Uppgift B.exe
+C:\Users\Admin\Documents\T4\U01091701\Uppgift B\Uppgift B\obj\Debug\Uppgift B.pdb
